@@ -42,10 +42,11 @@ Examples:
 ## Citations
 
 If you write a scientific paper describing research that made use of this code, please cite the following paper:
-
+```
 @Article{ash-fpga,
   Title                    = {High Throughput Image Filters on FPGAs},
   Author                   = {Al-Dujaili, Abdullah and Fahmy, Suhaib A.},
   Journal                  = {??},
   Year                     = {2016}
 }
+``
