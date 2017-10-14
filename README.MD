@@ -34,9 +34,9 @@ Examples:
 		to int(1/49 * 2^14). See `filter_tb2.v`.
 	b. In general: let MAX be the maximum value possible from a weighted combination of sum(a'coefficient) where a is a zero-one vector(this suggests MIN=-MAX). Then the coefficient values
 		have to be set such that:
-			~~~
+			```
 			coefficient_value_for_filter = coefficient_value_from_text_file * 2^14/MAX
-			~~~
+			```
 		
 
 ## Citations
@@ -46,7 +46,7 @@ If you write a scientific paper describing research that made use of this code, 
 @Article{ash-fpga,
   Title                    = {High Throughput Image Filters on FPGAs},
   Author                   = {Al-Dujaili, Abdullah and Fahmy, Suhaib A.},
-  Journal                  = {??},
+  Journal                  = {arXiv preprint},
   Year                     = {2016}
 }
-``
+```
