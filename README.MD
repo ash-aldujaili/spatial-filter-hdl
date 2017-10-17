@@ -46,7 +46,9 @@ If you write a scientific paper describing research that made use of this code, 
 @Article{ash-fpga,
   Title                    = {High Throughput Image Filters on FPGAs},
   Author                   = {Al-Dujaili, Abdullah and Fahmy, Suhaib A.},
-  Journal                  = {arXiv preprint},
-  Year                     = {2016}
+  journal = {ArXiv e-prints},
+  year = {2017},
+  volume = {arXiv:1710.05154},
+  url = {http://arxiv.org/abs/1710.05154}
 }
 ```
